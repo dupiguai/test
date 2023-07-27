@@ -1,1 +1,1 @@
-docker pull hwdsl2/ipsec-vpn-server
+FROM hwdsl2/ipsec-vpn-server:latest
